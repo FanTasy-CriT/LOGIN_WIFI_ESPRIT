@@ -1,3 +1,7 @@
+DESCRIPTION:
+
+This script was made to help you login into Esprit's network without having to enter the website and type in the credenstials manually each time.
+
 REQUISITES:
 
 1. Python 3.0 and above
