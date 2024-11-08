@@ -6,6 +6,7 @@ REQUISITES:
 INSTRUCTIONS:
 
 1.Download the repository files 
+
 2.make sure that the firefox_path inside DETAILS.env is correct
 
 3.![image](https://github.com/user-attachments/assets/3890f593-bd91-408e-9ecc-267dbf159635)
