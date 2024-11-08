@@ -6,6 +6,7 @@ REQUISITES:
 
 1. Python 3.0 and above
 2. selenium (can be downloaded using the coomand  : "pip install selenium")
+3. Firefox
 
 INSTRUCTIONS:
 
