@@ -5,7 +5,9 @@ This script was made to help you login into Esprit's network without having to e
 REQUISITES:
 
 1. Python 3.0 and above
-2. selenium (can be downloaded using the coomand  : "pip install selenium")
+ 
+2. selenium (can be downloaded using the command  : "pip install selenium")
+    
 3. Firefox
 
 INSTRUCTIONS:
@@ -17,6 +19,7 @@ INSTRUCTIONS:
 3.![image](https://github.com/user-attachments/assets/3890f593-bd91-408e-9ecc-267dbf159635)
 
 4.after that set username1 and password1 to your actual credenstials 
+
 5.DONE !! go ahead and launch LOGIN.py when you are not logged in 
 
 NOTE:
